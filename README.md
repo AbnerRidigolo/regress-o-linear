@@ -1,4 +1,4 @@
-# 📊 Regressão Linear com Python
+# Regressão Linear com Python
 
 Este projeto demonstra a aplicação de **regressão linear múltipla** para prever preços de imóveis com base em variáveis como renda média, idade média das casas, número de cômodos e população da área.
 
@@ -6,7 +6,7 @@ Este projeto demonstra a aplicação de **regressão linear múltipla** para pre
 
 ---
 
-## 📌 Objetivos
+## Objetivos
 
 - Explorar e visualizar dados de imóveis residenciais nos EUA  
 - Preparar os dados para modelagem preditiva  
@@ -16,7 +16,7 @@ Este projeto demonstra a aplicação de **regressão linear múltipla** para pre
 
 ---
 
-## 🛠️ Bibliotecas utilizadas
+##  Bibliotecas utilizadas
 
 ```python
 import pandas as pd
@@ -30,7 +30,7 @@ from sklearn import metrics
 
 ---
 
-## 📁 Etapas principais
+##  Etapas principais
 
 1. **Importação e análise exploratória dos dados**  
 2. **Criação dos arrays X (features) e y (target)**  
@@ -41,7 +41,7 @@ from sklearn import metrics
 
 ---
 
-## 📈 Avaliação do Modelo
+##  Avaliação do Modelo
 
 Foram utilizadas três métricas principais:
 
@@ -53,6 +53,6 @@ Além disso, foi gerado um histograma de resíduos, confirmando que a maior part
 
 ---
 
-## 🧠 Conclusão
+##  Conclusão
 
 Apesar de o conjunto de dados ser fictício, o projeto permite entender com clareza os princípios da **regressão linear múltipla**, suas aplicações e como avaliar sua performance. O modelo conseguiu prever os preços com boa precisão, e as análises mostraram como cada variável influencia diretamente no resultado final.
